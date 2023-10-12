@@ -1,2 +1,2 @@
 # tsai-tools-executables
-A repository to share Technis tools as executables
+A repository to share Technis cartography management tool as executables
